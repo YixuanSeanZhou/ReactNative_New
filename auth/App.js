@@ -14,7 +14,7 @@ class App extends React.Component {
       projectId: 'auth-2b1be',
       storageBucket: 'auth-2b1be.appspot.com',
       messagingSenderId: '883740653332'
-  });
+    });
   }
   render() {
     return (
