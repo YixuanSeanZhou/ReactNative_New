@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "auth",
-    "slug": "auth",
+    "name": "Tech-Stack",
+    "slug": "tech_stack",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -24,8 +24,6 @@
     ],
     "ios": {
       "supportsTablet": true
-    },
-    "description": "Use Firebase, allow user sign in and sign out, in between the connection of firebase, show spinner",
-    "githubUrl": "https://github.com/YixuanZhouThomas/ReactNative_New/tree/master/auth"
+    }
   }
 }
