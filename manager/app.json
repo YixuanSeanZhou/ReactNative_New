@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Tech-Stack",
-    "slug": "tech_stack",
+    "name": "Manager",
+    "slug": "manager",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -24,8 +24,6 @@
     ],
     "ios": {
       "supportsTablet": true
-    },
-    "description": "Create a list of items, which default only show the title of the list while clicking enable the diaplay of the list. Use Redux to connect the actions and the app, first time dealing redux.",
-    "githubUrl": "https://github.com/YixuanZhouThomas/ReactNative_New/tree/master/tech_stack"
+    }
   }
 }
