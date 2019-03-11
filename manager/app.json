@@ -25,8 +25,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Use Firebase, allow user to create a list of new emploees.
-    They can also modify them with name, phone num and shift, which is the day of work. Aside from that it also allow user to delete them later on. When the user change the workshift and save, a call to the user will be made.",
+    "description": "Use Firebase, allow user to create a list of new emploees. They can also modify them with name, phone num and shift, which is the day of work. Aside from that it also allow user to delete them later on. When the user change the workshift and save, a call to the user will be made.",
     "githubUrl": "https://github.com/YixuanZhouThomas/ReactNative_New/tree/master/manager"
   }
 }
