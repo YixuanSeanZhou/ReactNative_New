@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import React, { Component } from 'react';
-import { ListView, Text } from 'react-native';
+import { ListView } from 'react-native';
 import { connect } from 'react-redux';
 import { employeesFetch } from '../actions';
 import ListItem from './ListItem.js';
@@ -33,7 +33,6 @@ class EmpolyeeList extends Component {
   }
 
   render() {
-    console.log(this.props);
     return (
       <ListView
         enableEmptySections
